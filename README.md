@@ -21,7 +21,8 @@ C++作业提交地点
 
 github官网：[https://github.com/](https://github.com/ "悬停显示") 
 
-2. **把自己的github帐号发到班群里，** lkc会邀请你作为协作者并开放权限。**没有权限事情会很严重哦**
+2. **把自己的github帐号发到班群里，** lkc会邀请你作为协作者并开放权限。<br>
+*协作者权限意味着更大的自由度，与更普遍使用的fork&pull request方法相比，协作者的权限更大。~~关于fork&pull request：[https://services.github.com/on-demand/github-desktop/pull-request-github-desktop](https://services.github.com/on-demand/github-desktop/pull-request-github-desktop "悬停显示")~~*
 
 3.下载GitHub Desktop（macOS,windows分别下载）
 
@@ -40,11 +41,15 @@ Mac:[Github Desktop的使用教程](https://www.jianshu.com/p/6063974849db?_u_u_
 
 homework-space是jinrongsyb17下的一个日后用来存放大家作业的仓库，属于每个同学的文件夹已经创建好了。<br>
 1）打开文件夹 ~~*"No local changes   Would you like to open this repository in Explorer?"*~~<br>
+<br>
 2) 把做好的 .CPP文件拉进文件夹  ~~*C:\Users\Francis\Documents\GitHub\homework-space\周明\第一次作业*~~ <br>
    这时，github Desktop已经检测到本地的变化了<br>
+   <br>
 3) 打开github Desktop，写好Summary,Description,点击Commit to master进行提交<br>
+<br>
 4) 点击Push origin<br>
    打开github页面，可见homework-space仓库已经push成功.<br>
+   <br>
 5) cheers and have a beer!<br>
 
 
