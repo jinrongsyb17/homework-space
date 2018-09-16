@@ -8,7 +8,7 @@ C++作业提交地点
 书的18页:1-2  1-4  1-9（5,6）  1-10（5,6）1-11<br>
 书的60页：2-1  2-5  2-8  2-11   2-23  2-24  2-25  2-27（需要提交）  2-29（需要提交）  2-32（需要提交） 2-35（需要提交）
 
-作业是有点多...9月18（周三）前交，最迟最迟在考试的前一周交。**请在文件名与注释里写上你认为所需要的关键信息！！**
+作业是有点多...9月18（周三）前以.CPP提交到homework-space，最迟最迟在考试的前一周交。**请在文件名与注释里写上你认为所需要的关键信息！！**
 
 在github上提交C++作业会非常简单，学会用github可能需要花费你30min+，但是懂得操作github之后，将会极大的提高团队协作的效率。<br>
 
@@ -20,8 +20,8 @@ C++作业提交地点
 1.注册github账号，需要邮箱激活。
 
 github官网：[https://github.com/](https://github.com/ "悬停显示") 
-
-2. **把自己的github帐号发到班群里，** lkc会邀请你作为协作者并开放权限。<br>
+<br>
+2.**把自己的github帐号发到班群里，** lkc会邀请你作为协作者并开放权限。<br>
 *协作者权限意味着更大的自由度，与更普遍使用的fork&pull request方法相比，协作者的权限更大。~~关于fork&pull request：[https://services.github.com/on-demand/github-desktop/pull-request-github-desktop](https://services.github.com/on-demand/github-desktop/pull-request-github-desktop "悬停显示")~~*
 
 3.下载GitHub Desktop（macOS,windows分别下载）
