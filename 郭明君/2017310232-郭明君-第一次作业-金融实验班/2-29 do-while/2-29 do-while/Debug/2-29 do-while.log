@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  2-29 do-while.cpp
+c:\users\黑将s5\documents\visual studio 2015\projects\2-29 do-while\2-29 do-while\2-29 do-while.cpp(15): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  2-29 do-while.vcxproj -> c:\users\黑将s5\documents\visual studio 2015\Projects\2-29 do-while\Debug\2-29 do-while.exe
+  2-29 do-while.vcxproj -> c:\users\黑将s5\documents\visual studio 2015\Projects\2-29 do-while\Debug\2-29 do-while.pdb (Full PDB)
