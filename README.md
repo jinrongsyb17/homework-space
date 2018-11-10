@@ -1,8 +1,9 @@
 # homework-space
 C++作业提交地点
 =======================
-授课老师：信息学院 郭韦昱 guoweiyu168@126.com
-课件和开题报告百度云链接：
+授课老师：信息学院 郭韦昱 guoweiyu168@126.com<br>
+
+课件和开题报告百度云链接：[https://pan.baidu.com/s/1OomM_bDHSDmXz7q5cGU1Aw](https://pan.baidu.com/s/1OomM_bDHSDmXz7q5cGU1Aw "悬停显示")<br>
 
 
 **第四次C++作业**<br>
@@ -11,6 +12,7 @@ C++作业提交地点
 2.隔一周交，ddl:11月21日13：00PM<br>
 3.开题报告需要在第十二周的周日提交，没有字数要求，只要写的清楚就可以，请各位组长带好组员们推进项目进度。<br>
 4.下一节课老师会介绍几个课外知识作为大作业选题的参考。比如说："第一个，计算图的优化，第二个高效的密集矩阵计算，第三个图像卷积计算，让感兴趣的同学可以去查查相关资料"<br>
+5.在提交作业的教程那添上了三个截图<br>
 
 
 **第三次C++作业**<br>
@@ -63,12 +65,15 @@ Mac:[Github Desktop的使用教程](https://www.jianshu.com/p/6063974849db?_u_u_
 homework-space是jinrongsyb17下的一个日后用来存放大家作业的仓库，属于每个同学的文件夹已经创建好了。<br>
 1）打开文件夹 ~~*"No local changes   Would you like to open this repository in Explorer?"*~~<br>
 <br>
+![第1步](https://github.com/jinrongsyb17/homework-space/blob/master/%E7%AC%AC1%E6%AD%A5.png)
 2) 把做好的 .CPP文件拉进文件夹  ~~*C:\Users\Francis\Documents\GitHub\homework-space\周明\第一次作业*~~ <br>
    这时，github Desktop已经检测到本地的变化了<br>
    <br>
 3) 打开github Desktop，写好Summary,Description,点击Commit to master进行提交<br>
 <br>
+![第2步](https://github.com/jinrongsyb17/homework-space/blob/master/%E7%AC%AC2%E6%AD%A5.png)
 4) 点击Push origin<br>
    打开github页面，可见homework-space仓库已经push成功.<br>
    <br>
+![第3步](https://github.com/jinrongsyb17/homework-space/blob/master/%E7%AC%AC3%E6%AD%A5.png)
 5) cheers and have a beer!<br>
