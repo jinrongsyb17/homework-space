@@ -3,8 +3,13 @@ C++作业提交地点
 =======================
 授课老师：信息学院 郭韦昱 guoweiyu168@126.com<br>
 
-课件和开题报告百度云链接：[https://pan.baidu.com/s/1OomM_bDHSDmXz7q5cGU1Aw](https://pan.baidu.com/s/1OomM_bDHSDmXz7q5cGU1Aw "悬停显示")<br>
+课件和开题报告百度云链接：[https://pan.baidu.com/s/16JaV8icQouDyT8nM_6HiMQ](https://pan.baidu.com/s/16JaV8icQouDyT8nM_6HiMQ "悬停显示")<br>
 
+**第五次C++作业**<br>
+7-11、7-14、8-1、8-2、8-4、8-5、8-7、8-9、8-11<br>
+1.全部交电子版，文件夹以“第5次-学号-姓名-金融实验”命名，非编程的题目交word，编程的交源文件。每个程序题对应一个.CPP，并且包含main函数。<br>
+2.隔一周交，ddl:12月5日13：00PM<br>
+3.开题报告提交ddl是：第十三周周日晚上12点。<br>
 
 **第四次C++作业**<br>
 6-23、6-26、6-29、7-2、7-5、7-7、7-9、<br>
