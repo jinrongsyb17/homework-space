@@ -1,0 +1,9 @@
+#include <fstream>
+using namespace std;
+int main()
+{
+	ofstream file1("test1.txt");
+	file1 << "????????????????";
+	file1.close();
+	return 0;
+}
