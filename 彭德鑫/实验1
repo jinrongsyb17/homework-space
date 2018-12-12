@@ -1,0 +1,28 @@
+#include<iostream>
+using namespace std;
+enum CPU_Rank{P1=1,P2,P3,P4,P5,P6,P7};
+class CPU{
+	public:
+		CPU();
+		void run(enum CPU_Rank rank,int frequency,float voltage);
+		void stop();
+		~CPU();
+	private:
+		enum CPU_Rank rank;
+		int frequency;
+		float voltage;
+}; 
+CPU::CPU(){
+	cout<<"构造函数"<<endl;
+} 
+CPU::~CPU(){
+	cout<<"析构函数"<<endl;
+} 
+void CPU::run(enum CPU_Rank rank,int frequency,float voltage){
+	cout<<"rank="<<rank<<" frequency="<<frequency<<"MHz voltage="<<voltage<<endl;
+}
+int main(){
+	CPU CPU1;
+	CPU1.run(P7,1,1.1);
+	return 0;
+}
