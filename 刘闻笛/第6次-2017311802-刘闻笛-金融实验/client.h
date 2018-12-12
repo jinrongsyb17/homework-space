@@ -2,10 +2,10 @@
 #ifndef CLIENT_H
 #define CLIENT_H
 
-class CLIENT
+class CLIENT//client¿‡
 {
 public:
-	CLIENT() {}
+	CLIENT(){}
 	CLIENT(int id, int age);
 	~CLIENT() {}
 	int getid() const;
@@ -18,3 +18,6 @@ private:
 	static int total;
 };
 #endif // CLIENT_H
+
+
+
