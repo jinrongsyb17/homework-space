@@ -1,0 +1,20 @@
+#include<iostream>
+using namespace std;
+class Computer{
+	public:
+		void run();
+		void stop();
+	private:
+		char cpu;
+		float ram;
+		char cdrom;
+};
+class CPU{
+};
+class RAM{
+};
+class CDROM{
+};
+int main(){
+	cout<<"emmmm"<<endl;
+}
