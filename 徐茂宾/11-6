@@ -1,0 +1,46 @@
+// 11-6.cpp 
+
+#include "pch.h"
+#include <iostream>
+#include<fstream>
+using namespace std;
+
+class Dog {
+public:
+	Dog(int weight, long years) :weight(weight), years(years) {}
+	~Dog() {}
+	int getWeight() { return weight; }
+	long getYears() { return years; }
+private:
+	int weight;
+	long years;
+};
+
+int main()
+{
+	char filename[100];
+	cout << "请输入文件名：";
+	cin >> filename;
+
+	ofstream file1(filename);
+	if (! file1)
+		cout << "无法打开"<<filename << endl;
+
+	Dog dog1(5, 10);
+	file1.write((char*)&dog1, sizeof dog1);
+	file1.close();
+
+	ifstream file2(filename);
+	if (!file2)
+		cout << "无法打开" << filename << endl;
+
+	Dog dog2(4, 4);
+	cout << "Dog2的体重为：" << dog2.getWeight()<<endl;
+	cout << "Dog2的年龄为：" << dog2.getYears() << endl;
+
+	file2.read((char*)&dog2, sizeof dog2);
+	cout << "Dog2的体重为：" << dog2.getWeight() << endl;
+	cout << "Dog2的年龄为：" << dog2.getYears() << endl;
+	file2.close();
+	return 0;
+}
