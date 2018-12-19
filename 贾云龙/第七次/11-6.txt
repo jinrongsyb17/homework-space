@@ -1,0 +1,4 @@
+﻿1>------ 已启动生成: 项目: Project2, 配置: Debug Win32 ------
+1>  源.cpp
+1>  Project2.vcxproj -> C:\Users\ceshi\Desktop\Project2\Debug\Project2.exe
+========== 生成: 成功 1 个，失败 0 个，最新 0 个，跳过 0 个 ==========
